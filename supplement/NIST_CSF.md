@@ -8,7 +8,7 @@
   - 易於實施的5大核心功能，並具有靈活應用的彈性，幫助各組織可以更好地理解、減少與溝通網路安全風險。 
 - [NIST CSF 2.0版](csf2.xlsx)
   - 2024年2月CSF 2.0版發布
-  - 6個關鍵功能、22 個類別與106個子類別
+  - (1+5==) 6個關鍵功能、22 個類別與106個子類別
 ## NIST
 - 美國國家標準暨技術研究院(National Institute of Standards and Technology,NIST)
 - [NIST Cybersecurity](https://www.nist.gov/cybersecurity)
@@ -19,6 +19,8 @@
   - NIST Privacy Framework 1.1 
 - [NIST AI Risk Management Framework (AI RMF)](https://www.nist.gov/itl/ai-risk-management-framework)
 - National Vulnerability Database(NVD)
+
+![NIST_CSF](NIIST_CSF.png)
 
 ### NIST CSF 1.1版
 
