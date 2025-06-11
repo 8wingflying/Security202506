@@ -18,7 +18,8 @@
   - [ISO 27001：2022資訊安全管理系統主導稽核員訓練課程](https://www.uuu.com.tw/Course/Show/1600/ISO-27001-2013%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86%E7%B3%BB%E7%B5%B1%E4%B8%BB%E5%B0%8E%E7%A8%BD%E6%A0%B8%E5%93%A1%E8%A8%93%E7%B7%B4%E8%AA%B2%E7%A8%8B)
 
 ## 安全控制措施與ISO 27002
-- ISO/IEC 27001:2022 Annex A(normative) Information security controls reference 列表
+- ISO/IEC 27001:2022 Annex A(normative) Information security controls reference 清單列表 ==> 總共才16頁 
+- ISO/IEC 27002:2022 厚達 152頁 ==> 逐項說明
 - 引入新的5大屬性
   - 1.控制措施類型Control type==>
     - Preventive`預防型`(旨在`防止`資訊安全事故發生之控制措施)
