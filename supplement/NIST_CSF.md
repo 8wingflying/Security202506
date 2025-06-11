@@ -74,7 +74,7 @@
     - `2`.Awareness(認知) and Training(教育訓練) (PR.AT)
     - `3`.Data Security |資料安全|(PR.DS):
     - `4`.Platform Security|平台安全| (PR.PS)
-    - `5`.Technology Infrastructure Resilience (PR.IR)
+    - `5`.Technology Infrastructure Resilience韌性 (PR.IR)
   - 偵測（Detect）
     - `1`.Continuous Monitoring (DE.CM)| 持續安全監控
     - `2`.Adverse Event Analysis (DE.AE):{不利的、負面的、有害的、惡劣、敵對}事件分析
