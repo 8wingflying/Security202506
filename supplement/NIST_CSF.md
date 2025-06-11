@@ -45,16 +45,41 @@
     - 這些結果可以被 高層主管、經理和專業人士理解，無論他們的資安專業程度如何。
     - 由於這些結果 不受產業、國家或技術限制，它們提供了組織靈活性，以便根據自身的風險、技術及使命進行調整。
   - `2`.CSF 組織檔案 (Organizational Profiles)
-    - 這是一種機制，用來描述組織目前或目標的資安狀態，並以 CSF 核心的結果來呈現。
+    - 這是一種機制，用來描述組織`目前(current)`或`目標(target|未來想要到的)`的資安狀態，並以 CSF Core的結果來呈現。
   - `3`.CSF `層級(Tiers)`：==>(哪一級的成熟度)
     - 可應用於 CSF 組織檔案，來評估組織的資安風險治理與管理實踐的嚴謹程度。
     - `層級(Tiers)`也可用於提供組織如何看待資安風險及其管理方式的背景資訊。
 - 六大核心功能:
   - `治理（Govern）[新增]`
+    - GOVERN 功能提供了各項成果，使組織能夠決定如何實現及優先考量其他五項功能的目標，並確保符合其使命與利害關係人的期望。
+    - 治理活動在將資安納入組織更廣泛的企業風險管理 (ERM) 策略中至關重要。
+    - GOVERN 涵蓋：
+      - `1`.Organizational Context (GV.OC)組織背景的理解
+      - `2`.Risk Management Strategy (GV.RM):風險管理策略
+      - `3`.角色、職責與權限[Roles, Responsibilities, and Authorities (GV.RR)]
+      - `4`.Policy (GV.PO):政策的建立與管理
+      - `5`.Oversight (GV.OV)
+      - `6`.Cybersecurity Supply Chain Risk Management (GV.SC):資安供應鏈風險管理
+    - 資安策略的監督 
   - 識別（Identify）
+    - `1`.Asset Management (ID.AM) 資產管理
+    - `2`.Risk Assessment (ID.RA) 風險評鑑
+    - `3`.Improvement (ID.IM) 改善
   - 保護（Protect）
+    - `1`.Identity Management(身分管理), Authentication(驗證), and Access Control(存取控制) (PR.AA):
+    - `2`.Awareness(認知) and Training(教育訓練) (PR.AT)
+    - `3`.Data Security |資料安全|(PR.DS):
+    - `4`.Platform Security|平台安全| (PR.PS)
+    - `5`.Technology Infrastructure Resilience (PR.IR)
   - 偵測（Detect）
+    - `1`.Continuous Monitoring (DE.CM)| 持續安全監控
+    - `2`.Adverse Event Analysis (DE.AE):{不利的、負面的、有害的、惡劣、敵對}事件分析
+      - Anomalies(異常狀況), indicators of compromise(IOC入侵指標), and other potentially adverse `events(事件)` are analyzed to characterize the events and detect cybersecurity `incidents(事故)`
+      - 異常狀況、入侵指標及其他潛在的不利事件皆被分析，被用來描述事件特徵並用來偵測`資安事故(incidents)`。
   - 回應（Respond）
+    - `1`.Incident Management (RS.MA):
+    - `2`.Incident Analysis (RS.AN)
+    - `3`.Incident Response Reporting and Communication (RS.CO):
   - 復原（Recover）
 
 # IPAS_中階_題型
