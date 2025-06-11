@@ -1,5 +1,7 @@
 # NIST CSF 1+5=6 功能 (Functions)
 - 功能 (Functions)、類別 (Categories) 和子類別 (Subcategories)
+![CSF2_1.png](CSF2_1.png)
+
 ## GOVERN 功能的類別 (Categories)
 - `1`.Organizational Context (GV.OC)組織背景的理解
 - `2`.Risk Management Strategy (GV.RM):風險管理策略
