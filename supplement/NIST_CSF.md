@@ -18,6 +18,8 @@
 - National Vulnerability Database(NVD)
 
 ### NIST CSF 1.1版
+
+![CSF1_1.png](CSF1_1.png)
 - 治理（ID.GV）： 企業用來管理和監控其法規、法律(legal)、風險(risk)、環境(environmental)和營運要求(operational requirements)的`政策(policies)、程序(procedures)和流程(processes)`，應被充分理解，並用於指導`資安風險管理(the management of cybersecurity risk)`。
 - ID.GV-1: 組織的資安政策已建立並傳達Organizational cybersecurity policy is established and communicated
 - ID.GV-2: 資安`角色(roles)`和`責任(responsibiliti)`已協調，並與內部職務及外部夥伴對齊。Cybersecurity roles and responsibilities are coordinated and aligned with internal roles and external partners
