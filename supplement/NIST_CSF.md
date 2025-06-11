@@ -5,21 +5,16 @@
 - NIST CSF 1.1版
   - 2018年4月，CSF 1.1版發布，這次改版最大意義在於擴展運用範圍，不僅涵蓋先前注重的關鍵基礎設施，同時，也要讓所有的企業環境都能適用
   - 易於實施的5大核心功能，並具有靈活應用的彈性，幫助各組織可以更好地理解、減少與溝通網路安全風險。 
-- NIST CSF 2.0版
-  - 2024年2月CSF 2.0版發布
-  - 6個關鍵功能、22 個類別與106個子類別
-
+- NIST CSF 2.0版 2024年2月CSF 2.0版發布:6個關鍵功能、22 個類別與106個子類別
 ## NIST
 - 美國國家標準暨技術研究院(National Institute of Standards and Technology,NIST)
 - [NIST Cybersecurity](https://www.nist.gov/cybersecurity)
 - [NIST CSF:The Cybersecurity Framework](https://www.nist.gov/cyberframework)
   - [NIST網路安全框架當紅 2019](https://www.ithome.com.tw/article/133173)
   - [NIST CSF 2](https://today.ithome.com.tw/tags/nist-csf)
-- [NIST PRIVACY FRAMEWORK 隱私權框架](https://www.nist.gov/privacy-framework)
+- [NIST PRIVACY FRAMEWORK](https://www.nist.gov/privacy-framework)
   - NIST Privacy Framework 1.1 
-- [NIST AI Risk Management Framework (AI RMF)人工智慧風險管理框架](https://www.nist.gov/itl/ai-risk-management-framework)
-  - ISO/IEC 42001:全球第一個專為人工智慧管理而設的國際標準
-    - ISO/IEC 42001:2023 Information technology — Artificial intelligence — Management system 
+- [NIST AI Risk Management Framework (AI RMF)](https://www.nist.gov/itl/ai-risk-management-framework)
 - National Vulnerability Database(NVD)
 
 ### NIST CSF 1.1版
@@ -40,7 +35,24 @@
   - NIST SP 800-53B(2020) Control Baselines for Information Systems and Organizations
 
 ### NIST CSF 2.0版 
-- 六大核心功能: `治理（Govern）[新增]`、識別（Identify）、保護（Protect）、偵測（Detect）、回應（Respond）、復原（Recover）。
+- NIST Cybersecurity Framework (Framework or CSF)包含三大`組成(components)`
+  - `1`.CSF Core(CSF 核心功能)
+    - 這是CSF 的核心部分，它是一個高層次的資安結果分類法，能夠幫助任何組織管理其網路安全風險。
+    - CSF 核心的組成包括 功能 (Functions)、類別 (Categories) 和子類別 (Subcategories)，詳細描述每個資安結果。
+    - 這些結果可以被 高層主管、經理和專業人士理解，無論他們的資安專業程度如何。
+    - 由於這些結果 不受產業、國家或技術限制，它們提供了組織靈活性，以便根據自身的風險、技術及使命進行調整。
+  - `2`.CSF 組織檔案 (Organizational Profiles)
+    - 這是一種機制，用來描述組織目前或目標的資安狀態，並以 CSF 核心的結果來呈現。
+  - `3`.CSF `層級(Tiers)`：==>(哪一級的成熟度)
+    - 可應用於 CSF 組織檔案，來評估組織的資安風險治理與管理實踐的嚴謹程度。
+    - `層級(Tiers)`也可用於提供組織如何看待資安風險及其管理方式的背景資訊。
+- 六大核心功能:
+  - `治理（Govern）[新增]`
+  - 識別（Identify）
+  - 保護（Protect）
+  - 偵測（Detect）
+  - 回應（Respond）
+  - 復原（Recover）
 
 # IPAS_中階_題型
 ```
