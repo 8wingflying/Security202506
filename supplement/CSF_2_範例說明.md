@@ -18,7 +18,7 @@
 - GV.OC-05: Outcomes, capabilities, and services that the organization depends on are understood and communicated
 
 #### GV.OC-01: 
-![CSF2_2.png](CSF2_2.png)
+![NIIST_CSF_2.png](NIIST_CSF_2.png)
 - The organizational mission is understood and informs cybersecurity risk management
 - 組織的使命已被理解，並用於資安風險管理的決策與執行。
 - Implementation Examples(實作範例)
