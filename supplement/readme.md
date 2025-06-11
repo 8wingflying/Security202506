@@ -2,9 +2,6 @@
 
 ## 第1單元 資通安全基本觀念
 - [資安威脅趨勢](資安威脅趨勢.md)
-  - 國家級駭客[北韓駭客|ITHOME](https://www.ithome.com.tw/tags/%E5%8C%97%E9%9F%93%E9%A7%AD%E5%AE%A2)
-    - 北韓政府的國家駭客組織 Lazarus(Hidden Cobra) | Kimsuky |
-    - [遭到北韓駭客入侵的美國資安研究人員，以一己之力癱瘓北韓網路](https://www.ithome.com.tw/news/149189)
 - [資通安全目標: CIA](CIA.md)
 - Security `Program`
   - [NIST CSF 安全架構](NIST_CSF.md)
