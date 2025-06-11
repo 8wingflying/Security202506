@@ -8,7 +8,7 @@
   - [ISO 27001 ISMS架構(第2單元)](ISMS_ISO_27001.md)
 
 ## 第2單元 資通安全相關法規
-- A.法規 [補充資料](./LAW.MD)
+- A.法規 
   - 行政院國家資通安全會報
   - 資通安全管理法與子法
     - [資通安全管理法(23條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030297)  [怎麼考?](資通安全管理法_考題.md)
