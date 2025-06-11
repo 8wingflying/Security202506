@@ -6,6 +6,6 @@
 - ISO國際標準
   - CNS/ISO/IEC 27005:2022
   - ISO 31010
-- NIST　標準
+- NIST 標準
 　- [NIST Risk Management Framework (RMF)](https://csrc.nist.gov/projects/risk-management)
 　- [ NIST AI Risk Management Framework (AI RMF)](https://csrc.nist.gov/projects/risk-management)
