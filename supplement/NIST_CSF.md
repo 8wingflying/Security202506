@@ -1,11 +1,14 @@
 # NIST CSF(Cybersecurity Framework)
 - 網路安全框架(Cybersecurity Framework, CSF)為美國國家標準暨技術研究院(National Institute of Standards and Technology,NIST)提出，作為整體網路安全架構之規劃藍圖參考
-- NIST CSF 1.0版 最早是2014年發布，當時主要目的是為了強化關鍵基礎設施的網路安全。
+- NIST CSF 1.0版
+  - 最早是2014年發布，當時主要目的是為了強化關鍵基礎設施的網路安全。
   - 源自美國總統歐巴馬在2013年2月，發布了第13636號行政命令（EO），要求該國NIST根據現有的標準與指南，訂立一套可供關鍵基礎設施採用的資安框架，以此強化網路安全。
 - NIST CSF 1.1版
   - 2018年4月，CSF 1.1版發布，這次改版最大意義在於擴展運用範圍，不僅涵蓋先前注重的關鍵基礎設施，同時，也要讓所有的企業環境都能適用
   - 易於實施的5大核心功能，並具有靈活應用的彈性，幫助各組織可以更好地理解、減少與溝通網路安全風險。 
-- NIST CSF 2.0版 2024年2月CSF 2.0版發布:6個關鍵功能、22 個類別與106個子類別
+- NIST CSF 2.0版
+  - 2024年2月CSF 2.0版發布
+  - 6個關鍵功能、22 個類別與106個子類別
 ## NIST
 - 美國國家標準暨技術研究院(National Institute of Standards and Technology,NIST)
 - [NIST Cybersecurity](https://www.nist.gov/cybersecurity)
