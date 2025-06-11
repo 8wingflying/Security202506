@@ -63,9 +63,8 @@
       - `2`.Risk Management Strategy (GV.RM):風險管理策略
       - `3`.角色、職責與權限[Roles, Responsibilities, and Authorities (GV.RR)]
       - `4`.Policy (GV.PO):政策的建立與管理
-      - `5`.Oversight (GV.OV)
+      - `5`.Oversight (GV.OV)資安策略的監督 
       - `6`.Cybersecurity Supply Chain Risk Management (GV.SC):資安供應鏈風險管理
-    - 資安策略的監督 
   - 識別（Identify）
     - `1`.Asset Management (ID.AM) 資產管理
     - `2`.Risk Assessment (ID.RA) 風險評鑑
