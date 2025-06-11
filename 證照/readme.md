@@ -16,7 +16,10 @@
     - 內容有深度,比較難自修
     - 參閱 龍大大開設的四天 IPAS 中級資訊安全工程師證照班
 
+![ipas中階250429.png](ipas中階250429.png)
+
 ![IPAS](IPAS.png)
+
 # 資安專業證照:國際資安專業證照
 
 # Security Certification Road Map證照路
