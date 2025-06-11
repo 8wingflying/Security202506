@@ -5,7 +5,7 @@
 - [資通安全目標: CIA](CIA.md)
 - Security `Program`
   - [NIST CSF 安全架構](NIST_CSF.md)
-  - [ISO 27001 ISMS架構(第2單元)](ISO27001.md)
+  - [ISO 27001 ISMS架構(第2單元)](ISMS_ISO_27001.md)
 
 ## 第2單元 資通安全相關法規
 - A.法規 [補充資料](./LAW.MD)
