@@ -14,13 +14,18 @@
   - 第10單元 資通安全事件通報及應變
 
 # 資通安全概論 [補充資料](./supplement)
+- 更多資訊 請參閱 [共通規範](https://www.nics.nat.gov.tw/cybersecurity_resources/reference_guide/Common_Standards/)
 - 更多進階課程 請參閱並請多多參加
-  - [資安職能 - 國家資通安全研究院](https://ctts.nics.nat.gov.tw/about/Training) 
+  - [資安職能 - 國家資通安全研究院](https://ctts.nics.nat.gov.tw/about/Training)
+- 安全推動架構(Security Program)
+  - [ISO 27000系列](https://zh.wikipedia.org/zh-tw/ISO/IEC_27000%E7%B3%BB%E5%88%97)
+  - NIST CSF 1.1 ==> CSF 2.0  
+    - https://www.nist.gov/cyberframework
 
 ## 資安人才 ==> 你想要成為那一/些類資安人才?
 - [臺灣積極建立資安職能的基準，因為國家網路安全的關鍵是人才數量與素質提升](https://www.ithome.com.tw/news/156757)
 
 
 ## 崑山一定上!資安職能課程服務紀事
-- Security_GOV
+
 
