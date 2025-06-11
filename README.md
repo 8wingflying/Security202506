@@ -24,7 +24,9 @@
 
 ## 資安人才 ==> 你想要成為那一/些類資安人才?
 - [臺灣積極建立資安職能的基準，因為國家網路安全的關鍵是人才數量與素質提升](https://www.ithome.com.tw/news/156757)
-
+- NIST [National Initiative for Cybersecurity Education (NICE)](https://www.nist.gov/itl/applied-cybersecurity/nice)
+- 歐盟資安技能框架ECSF  [European Cybersecurity Skills Framework](https://www.enisa.europa.eu/topics/education/european-cybersecurity-skills-framework)
+  - [歐盟資安技能框架ECSF定義資安團隊12角色，揭露各職任務重點](https://www.ithome.com.tw/news/156746)
 
 ## 崑山|一定上!資安職能課程服務紀事 8wingflying@gmail.com
 
