@@ -70,6 +70,7 @@
     - 治理活動在將資安納入組織更廣泛的企業風險管理 (ERM) 策略中至關重要。
     - GOVERN 涵蓋：
       - `1`.Organizational Context (GV.OC)組織背景的理解
+        - [CSF_2_範例說明.md](CSF_2_範例說明.md) 
       - `2`.Risk Management Strategy (GV.RM):風險管理策略
       - `3`.角色、職責與權限[Roles, Responsibilities, and Authorities (GV.RR)]
       - `4`.Policy (GV.PO):政策的建立與管理
