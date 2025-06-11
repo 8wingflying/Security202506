@@ -1,0 +1,77 @@
+# NIST指南 
+- [點選連結進去看看](https://csrc.nist.gov/publications/sp)
+- FIPS (standards)
+- SP 800 (guidance)
+- SP 1800 (practice guides)
+  - SP 1800-34 Validating the Integrity of Computing Devices `Final`	12/09/2022
+  - SP 1800-35 Implementing a Zero Trust Architecture (Volume E, Risk and Compliance Management)  `Draft`	9/12/2023
+  - SP 1800-35 Implementing a Zero Trust Architecture `Draft`	8/22/2023
+  - SP 1800-29	Data Confidentiality: Detect, Respond to, and Recover from Data Breaches Final	2/23/2024
+  - SP 1800-28  Data Confidentiality: Identifying and Protecting Assets Against Data Breaches Final	2/23/2024
+  - SP 1800-26	Data Integrity: Detecting and Responding to Ransomware and Other Destructive Events Final	12/08/2020
+  - SP 1800-25	Data Integrity: Identifying and Protecting Assets Against Ransomware and Other Destructive Events Final	12/08/2020
+  - SP 1800-5  IT Asset Management  Final	9/07/2018
+  - SP 1800-4	 Mobile Device Security: Cloud and Hybrid Builds  Final	2/21/2019
+- SP (all subseries)
+  - SP	1305	NIST Cybersecurity Framework 2.0: Quick-Start Guide for Cybersecurity Supply Chain Risk Management (C-SCRM)  Draft	2/26/2024
+  - SP	1303	NIST Cybersecurity Framework 2.0: Enterprise Risk Management Quick-Start Guide Draft	2/26/2024
+  - SP	1302	NIST Cybersecurity Framework 2.0: Quick-Start Guide for Using the CSF Tiers  Draft	2/26/2024
+  - SP	1301	NIST Cybersecurity Framework 2.0: Quick-Start Guide for Creating and Using Organizational Profiles Final	2/26/2024
+  - SP	1300	NIST Cybersecurity Framework 2.0: Small Business Quick-Start Guide Final	2/26/2024
+  - SP	1299	NIST Cybersecurity Framework 2.0: Resource and Overview Guide  Final	2/26/2024
+  - SP	500-19	 Audit and Evaluation of Computer Security  Final	10/01/1977
+- IR (interagency/internal reports)
+- CSWP (cybersecurity white papers)
+# NISP_Special Publication(NIST SP 800)
+  - 安全開發
+    - [NIST SP 800-218 Secure Software Development Framework (SSDF) Version 1.1: Recommendations for Mitigating the Risk of Software Vulnerabilities](https://www.nist.gov/publications/secure-software-development-framework-ssdf-version-11-recommendations-mitigating-risk)
+    - [NIST SP 800-160v2r1: Developing Cyber-Resilient Systems: A Systems Security Engineering Approach](https://www.nist.gov/publications/developing-cyber-resilient-systems-systems-security-engineering-approach-0)
+  - IOT 安全
+    - [NIST SP 800-213A: IoT Device Cybersecurity Guidance for the Federal Government: IoT Device Cybersecurity Requirement Catalog](https://www.nist.gov/publications/iot-device-cybersecurity-guidance-federal-government-iot-device-cybersecurity)
+    - [NIST SP 800-213: IoT Device Cybersecurity Guidance for the Federal Government: Establishing IoT Device Cybersecurity Requirements](https://www.nist.gov/publications/iot-device-cybersecurity-guidance-federal-government-establishing-iot-device)
+  - 雲端安全
+    - SP	800-190 Application Container Security Guide Final	9/25/2017
+    - SP	800-146	 Cloud Computing Synopsis and Recommendations  Final	5/29/2012
+    - SP	800-145	 The NIST Definition of Cloud Computing  Final	9/28/2011
+    - SP	800-144	 Guidelines on Security and Privacy in Public Cloud Computing  Final	12/09/2011
+    - SP	800-125	 Guide to Security for Full Virtualization Technologies  Final	1/28/2011
+    - 雲端微服務安全
+      - SP	800-204C	Implementation of DevSecOps for a Microservices-based Application with Service Mesh Final	3/08/2022
+      - SP	800-204B	Attribute-based Access Control for Microservices-based Applications using a Service Mesh Final	8/06/2021
+      - SP	800-204A	Building Secure Microservices-based Applications Using Service-Mesh Architecture  Final	5/27/2020
+      - SP	800-204	  Security Strategies for Microservices-based Application Systems Final	8/07/2019
+      - SP	800-180	  NIST Definition of Microservices, Application Containers and System Virtual Machines  Draft	2/18/2016
+  - 安全控制Controls
+    - SP	800-53 Rev. 5	 Security and Privacy Controls for Information Systems and Organizations  Final	12/10/2020
+    - 基準 SP	800-53B	Control Baselines for Information Systems and Organizations Final	12/10/2020
+    - 基準驗證 SP	800-53A Rev. 5	Assessing Security and Privacy Controls in Information Systems and Organizations Final	1/25/2022
+  - 零現任架構Zero Trust Architecture
+    - SP 800-207A	A Zero Trust Architecture Model for Access Control in Cloud-Native Applications in Multi-Cloud Environments  Final	9/13/2023
+    - SP 800-207	 Zero Trust Architecture Final	8/11/2020 [連結](https://csrc.nist.gov/publications/detail/sp/800-207/final)
+  - 數位鑑識
+    - SP 800-86	 Guide to Integrating Forensic Techniques into Incident Response Final	9/01/2006
+    - SP 800-72  Guidelines on PDA Forensics Final	11/01/2004
+  - SP 800-115	 Technical Guide to Information Security Testing and Assessment  Final	9/30/2008
+  - SP 800-95	Guide to Secure Web Services  Final	8/29/2007
+  - SP 800-94	Guide to Intrusion Detection and Prevention Systems (IDPS)  Final	2/20/2007
+  - SP 800-92 Rev. 1	 Cybersecurity Log Management Planning Guide  Draft	10/11/2023
+  - SP 800-92	 Guide to Computer Security Log Management  Final	9/13/2006
+  - [NIST SP 800-121, Revision 2 Guide to Bluetooth Security](https://www.nist.gov/publications/guide-bluetooth-security-2)
+  - [NIST SP 800-44ver2: Guidelines on Securing Public Web Servers](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-44ver2.pdf)
+  - SP	800-45 Version 2	Guidelines on Electronic Mail Security  Final	2/20/2007
+  - SP	800-41 Rev. 1	  Guidelines on Firewalls and Firewall Policy  Final	9/28/2009
+  - SP	800-18 Rev. 1	  Guide for Developing Security Plans for Federal Information Systems  Final	2/24/2006
+
+## 延伸閱讀 
+- [IR](https://csrc.nist.gov/publications/ir)
+- IR 8504	Access Control on NoSQL Databases  Draft	1/30/2024
+- IR 8496	Data Classification Concepts and Considerations for Improving Data Collection   Draft	11/15/2023
+- IR	8441	Cybersecurity Framework Profile for Hybrid Satellite Networks (HSN)   Final	9/25/2023
+- IR	8403	Blockchain for Access Control Systems   Final	5/26/2022
+- IR	8360	Machine Learning for Access Control Policy Verification  Final	9/16/2021
+- 企業風險管理Enterprise Risk Management
+  - IR 8286D	Using Business Impact Analysis to Inform Risk Prioritization and Response Final	11/17/2022
+  - IR 8286C	Staging Cybersecurity Risks for Enterprise Risk Management and Governance Oversight Final	3/06/2024
+  - IR 8286B	Prioritizing Cybersecurity Risk for Enterprise Risk Management Final	2/10/2022
+  - IR 8286A	Identifying and Estimating Cybersecurity Risk for Enterprise Risk Management Final	11/12/2021
+  - IR 8286	Integrating Cybersecurity and Enterprise Risk Management (ERM)  Final	10/13/2020
