@@ -15,6 +15,7 @@
 
 #### IPAS 中階 資安工程師 證照班 無可匹敵
 
+![ipas中階250429.png](ipas中階250429.png)
 #### 恩師龍大大獲獎資料
 ![edu1.jpg](edu1.jpg) 
 ![edu2.jpg](edu2.jpg) 
