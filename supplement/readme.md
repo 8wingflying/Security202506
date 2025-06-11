@@ -11,7 +11,7 @@
 - A.法規 [補充資料](./LAW.MD)
   - 行政院國家資通安全會報
   - 資通安全管理法與子法
-    - [資通安全管理法(23條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030297)
+    - [資通安全管理法(23條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030297)  [怎麼考?](資通安全管理法_考題.md)
     - 六大子法
       - 1.[資通安全管理法施行細則(13條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030303)
       - 2.[資通安全責任等級分級辦法(12條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030304)
