@@ -26,6 +26,14 @@
 - ID.GV-3:與資安相關的`法律(Legal)`與`法規(regulatory)`要求，包括`隱私權(privacy`)與`公民自由義務(civil liberties obligations)`，均被理解並加以管理。Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed
 - ID.GV-4:治理與風險管理流程`涵蓋`資安風險Governance and risk management processes `address` cybersecurity risks
 
+- 🔒 NIST 800-53 是一份由美國國家標準與技術研究院 (NIST) 發布的資訊安全文件，提供組織建立資訊安全管理系統 (ISMS) 的建議。它涵蓋了資訊安全管理的各個方面，包括風險評估、安全控制、安全事件應變等。
+- 🔐 NIST 800-53 的重要性: NIST 800-53 是美國政府機構和承包商的強制性安全標準，也廣泛被其他組織採用。它提供了一個全面的資訊安全框架，幫助組織保護其資訊資產。
+- 🌎 NIST 800-53 的國際影響 NIST 800-53 已經成為全球資訊安全標準的基石，許多國家和地區都參考其內容制定本地的資訊安全法規和標準
+- 🌎 NIST 800-53 最新版本 Rev. 5  (CSF 1.1使用的是 Rev. 4版)
+  - NIST SP 800-53 Rev. 5(2020) Security and Privacy Controls for Information Systems and Organizations
+  - NIST SP 800-53A Rev. 5(2022) Assessing Security and Privacy Controls in Information Systems and Organizations
+  - NIST SP 800-53B(2020) Control Baselines for Information Systems and Organizations
+
 ### NIST CSF 2.0版 
 - 六大核心功能: `治理（Govern）[新增]`、識別（Identify）、保護（Protect）、偵測（Detect）、回應（Respond）、復原（Recover）。
 
