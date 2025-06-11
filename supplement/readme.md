@@ -13,8 +13,8 @@
   - 資通安全管理法與子法
     - [資通安全管理法(23條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030297)  [怎麼考?](資通安全管理法_考題.md)
     - 六大子法
-      - 1.[資通安全管理法施行細則(13條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030303)[怎麼考?](施行細則_考題.md)
-      - 2.[資通安全責任等級分級辦法(12條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030304)
+      - 1.[資通安全管理法施行細則(13條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030303)  [怎麼考?](施行細則_考題.md)
+      - 2.[資通安全責任等級分級辦法(12條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030304)  [怎麼考?](分級辦法_考題.md)
         - 第 2 條 公務機關及特定非公務機關（以下簡稱各機關）之資通安全責任等級，由高至低，分為 A 級、B 級、C 級、D 級及 E 級。
         - 附表1-8:應辦事項
         - 附表九 資通系統防護需求分級原則
