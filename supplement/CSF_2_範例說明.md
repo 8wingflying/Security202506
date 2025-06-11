@@ -19,8 +19,9 @@
 
 #### GV.OC-01: 
 ![NIIST_CSF_2.png](NIIST_CSF_2.png)
-- The organizational mission is understood and informs cybersecurity risk management
-- 組織的使命已被理解，並用於資安風險管理的決策與執行。
+- GV.OC-01 子類別 (Subcategories)
+  - The organizational mission is understood and informs cybersecurity risk management
+  - 組織的使命已被理解，並用於資安風險管理的決策與執行。
 - Implementation Examples(實作範例)
   - Ex1: Share the organization's mission (e.g., through vision and mission statements, marketing, and service strategies) to provide a basis for identifying risks that may impede that mission
   - 分享組織的使命（例如願景與使命宣言、行銷策略、服務策略），以作為識別(可能阻礙該使命)之風險的基礎
