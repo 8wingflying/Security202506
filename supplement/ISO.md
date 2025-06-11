@@ -1,0 +1,86 @@
+# ISO標準 
+- IS0/IEC 27000系列　Information security management systems
+- ISO 31000系列 :Risk management 　==> ISO 27005
+- ISO 22300 系列 Security and resilience– Business continuity management systems
+# ISO 27XXX 系列
+- IS0/IEC 27000 
+  - ISO/IEC 27000:2018 Information technology — Security techniques — Information security management systems — Overview and vocabulary 概述和詞彙
+- 👍 ISO/IEC 27001:2022 Information security management systems ---- Requirements要求
+- 👍 IS0/IEC 27002:2022 Information security, cybersecurity and privacy protection — `Information security controls` 
+- ISO/IEC 27003:2017 Information technology — Security techniques — Information security management systems —`Guidance` `實施`
+- IS0/IEC 27004 資訊安全管理衡量指南與指標框架
+  - ISO/IEC 27004:2016 Information technology — Security techniques — Information security management — Monitoring, measurement, analysis and evaluation 
+- 👍 IS0/IEC 27005 資訊安全風險管理指南
+  - ISO/IEC 27005:2022　Information security, cybersecurity and privacy protection — Guidance on managing information security risks　 
+- IS0/IEC 27006 認證機構要求
+- IS0/IEC 27007  ISMS ==> `稽核` 
+  - ISO/IEC 27007:2020 Information security, cybersecurity and privacy protection — Guidelines for information security management systems auditing 
+- IS0/IEC 27008 `評估assessment` 安全控制措施 
+  - ISO/IEC TS 27008:2019 Information technology — Security techniques — Guidelines for the assessment of information security controls
+- ISO/IEC 27009:2020 Information security, cybersecurity and privacy protection — Sector-specific application of ISO/IEC 27001 — Requirements
+- ISO/IEC 27010:2015 Information technology — Security techniques — Information security management for inter-sector and inter-organizational communications
+- IS0/IEC 27011 
+  - 通信組織資訊安全管理指南
+  - ISO/IEC 27011:2016 Information technology — Security techniques — Code of practice for Information security controls based on ISO/IEC 27002 for telecommunications organizations****
+- 27012 ??
+- ISO/IEC 27013:2012 Information technology — Security techniques — Guidance on the integrated implementation of ISO/IEC 27001 and ISO/IEC 20000-1
+- IS0/IEC 27014 資訊安全`治理`
+  - ISO/IEC 27014:2020 Information security, cybersecurity and privacy protection — Governance of information security 
+- IS0/IEC 27015 金融行業資訊安全管理指南
+  - ISO/IEC TR 27015:2012　Information technology — Security techniques — Information security management guidelines for financial services
+- ISO/IEC 27017:2015 雲端服務安全 
+  - Information technology — Security techniques — Code of practice for information security controls based on ISO/IEC 27002 for cloud services
+- ISO/IEC 27018:2019 Information technology — Security techniques — Code of practice for protection of personally identifiable information (PII) in public clouds acting as PII processors
+- IS0/IEC 27031 業務連續性
+  - ISO/IEC 27031:2011 Information technology — Security techniques — Guidelines for information and communication technology readiness for business continuity   
+- IS0/IEC 27032 網路空間安全指南
+  - ISO/IEC 27032:2012 Information technology — Security techniques — Guidelines for cybersecurity 
+- IS0/IEC 27033 Network security 網路安全指南
+  - ISO/IEC 27033: Information technology — Security techniques — Network security 
+    - parts 1-6 published, part 7 in DRAFT
+  - ISO/IEC 27033-1:2015 Information technology — Security techniques — Network security — Part 1: Overview and concepts
+  - ISO/IEC 27033-2:2012 Information technology — Security techniques — Network security — Part 2: Guidelines for the design and implementation of network security
+  - ISO/IEC 27033-3:2010 Information technology — Security techniques — Network security — Part 3: Reference networking scenarios — Threats, design techniques and control issues
+  - ISO/IEC 27033-4:2014 Information technology — Security techniques — Network security — Part 4: Securing communications between networks using security gateways
+  - ISO/IEC 27033-6:2016 Information technology — Security techniques — Network security — Part 6: Securing wireless IP network access
+  - ISO/IEC FDIS 27033-7 Information technology – Network security — Part 7: Guidelines for network virtualization security
+- IS0/IEC 27034 Application security應用安全指南
+  - 參看[ISO/IEC 27034:2011-2018 — Information technology — Security techniques — Application security (6½ parts) ](https://www.iso27001security.com/html/27034.html)
+- IS0/IEC 27035 安全事件管理指南Information security incident management
+  - ISO/IEC 27035-1:2023 Information technology — Information security incident management — Part 1: Principles and process
+  - ISO/IEC 27035-2:2023 Information technology — Information security incident management — Part 2: Guidelines to plan and prepare for incident response
+  - ISO/IEC 27035-3:2020 Information technology — Information security incident management — Part 3: Guidelines for ICT incident response operations
+  - 草案階段 ISO/IEC 27035-4 — Information technology — Information security incident management — Part 4: Coordination [DRAFT]
+- IS0/IEC 27036 Cybersecurity — Supplier relationships
+  - ISO/IEC 27036-1:2021 Cybersecurity — Supplier relationships — Part 1: Overview and concepts [ISO網站](https://www.iso.org/standard/82905.html)
+- IS0/IEC 27037 數位證據收集和保存指南
+- ISO/IEC 27102:2019 Information security management — Guidelines for cyber-insurance
+- IS0/IEC 27799 醫療機構資訊安全管理指南
+
+## Risk management :ISO 31000系列　==> ISO 27005
+- Published standards:
+  - ISO 31000:2018 - Risk management - Guidelines
+  - ISO/TR 31004:2013 - Risk management - Guidance for the implementation of ISO 31000
+  - ISO/IEC 31010:2019 - Risk management - Risk assessment techniques
+  - ISO 31022:2020 - Risk management - Guidelines for the management of legal risk
+  - ISO 31030:2021 Travel risk management — Guidance for organizations
+  - IWA 31:2020 - Risk management - Guidelines on using ISO 31000 in management systems
+- Standards under development:
+  - ISO/AWI 31073 - Risk management - Vocabulary
+  - ISO/WD 31050 - Guidance for managing emerging risks to enhance resilience
+  - ISO/CD 31070 - Risk management - Guidelines on core concepts
+- ISO Guide 73:2009 Risk management --Vocabulary
+
+# ISO 22300 系列 Security and resilience– Business continuity management systems
+- [ISO 22300:2021, Security and resilience – Vocabulary](https://en.wikipedia.org/wiki/ISO_22300)
+  - is an international standard developed by ISO/TC 292 Security and resilience. 
+  - This document defines terms used in security and resilience standards and includes 360 terms and definitions.
+  - This edition was published in the beginning of 2021 and replaces the second edition from 2018
+- ISO 22301:2019, Security and resilience – Business continuity management systems – Requirements
+- ISO 22313:2020 Security and resilience – Business continuity management systems – Guidance on the use of ISO 22301
+- ISO/TS 22317:2021 Security and resilience – Business continuity management systems – Guidelines for business impact analysis
+- ISO/TS 22318:2021 Security and resilience – Business continuity management systems – Guidelines for supply chain continuity
+- ISO/TS 22330:2018 Security and resilience – Business continuity management systems – Guidelines for people aspects on business continuity
+- ISO/TS 22331:2018 Security and resilience – Business continuity management systems – Guidelines for business continuity strategy
+- ISO/TS 22332:2021 Security and resilience – Business continuity management systems – Guidelines for developing business continuity plans and procedures
+- ISO/IEC/TS 17021-6:2015 Conformity assessment – Requirements for bodies providing audit and certification of management systems – Part 6: Competence requirements for auditing and certification of business continuity management systems
