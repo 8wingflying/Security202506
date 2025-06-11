@@ -1,5 +1,7 @@
 # ISMS與ISO 27001
 - 資訊安全管理系統 Information security `management systems(管理系統)`  ==> 制度
+  - 新版(2022|已經是第三代)與舊版(2013|第二代)
+    - ISO/IEC 27001:2013 Information technology — Security techniques — Information security management systems — Requirements 
   - ISO/IEC 27001:2022 Information security, cybersecurity and privacy protection — Information security management systems — Requirements(要求) | Edition : 3 | Number of pages : 19
   - ISO/IEC 27002:2022 Information security, cybersecurity and privacy protection — Information security controls | Edition : 3 | Number of pages : 152
   - 資訊安全管理系統(ISMS)-內容架構
