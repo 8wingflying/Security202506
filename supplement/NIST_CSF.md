@@ -80,11 +80,14 @@
     - `2`.Adverse Event Analysis (DE.AE):{不利的、負面的、有害的、惡劣、敵對}事件分析
       - Anomalies(異常狀況), indicators of compromise(IOC入侵指標), and other potentially adverse `events(事件)` are analyzed to characterize the events and detect cybersecurity `incidents(事故)`
       - 異常狀況、入侵指標及其他潛在的不利事件皆被分析，被用來描述事件特徵並用來偵測`資安事故(incidents)`。
-  - 回應（Respond）
-    - `1`.Incident Management (RS.MA):
-    - `2`.Incident Analysis (RS.AN)
-    - `3`.Incident Response Reporting and Communication (RS.CO):
-  - 復原（Recover）
+  - 回應（Respond） ==> 針對`資安事故(incidents)`
+    - `1`.Incident Management管理 (RS.MA):
+    - `2`.Incident Analysis分析 (RS.AN)
+    - `3`.Incident Response Reporting and Communication 報告與溝通 (RS.CO):
+    - `4`.Incident Mitigation 緩解(RS.MI):
+  - 復原（Recover）災難復原|事故後復原
+    - `1`.Incident Recovery Plan Execution (RC.RP):
+    - `2`.Incident Recovery Communication (RC.CO)
 
 # IPAS_中階_題型
 ```
