@@ -60,9 +60,9 @@
 
 ## 第3單元 資通安全風險管理與業務持續運作管理
 - [風險管理](風險管理.md)
-  - 資通系統風險評鑑參考指引(修訂)v4.1_1101231 
+  - 【共通規範】| 資通系統風險評鑑參考指引(修訂)v4.1_1101231 
 - [業務持續運作管理](業務持續運作管理.md)
-  - 營運持續管理參考指引v2.0_1111231 
+  - 【共通規範】| 營運持續管理參考指引v2.0_1111231 
 
 ## 第4單元 作業安全 | 營運安全 security operation
 - 軟硬體維護
@@ -121,10 +121,9 @@
    - 稽核紀錄的保護(log protection)
    - [NIST SP 800-92 Guide to Computer Security Log Management](https://csrc.nist.gov/publications/detail/sp/800-92/final)
  - 社交工程演練 ==> 防範社交工程攻擊
-
 - CISSP| Domain 7. Security Operations
 ## 第5單元 資訊委外安全
-- 共通規範| 政府資訊作業委外資安參考指引v6.5_1131231
+- 【共通規範】| 政府資訊作業委外資安參考指引v6.5_1131231
 - 計畫階段
 - 招標階段
 - 決標階段
@@ -132,24 +131,28 @@
 - 驗收階段
 - 保固階段
 ## 第6單元 存取控制與加解密技術
-- 存取控制 [IPAS示範題目](./access.md)
-- 身分驗證 [IPAS示範題目](./Authentication.md)
-- 密碼學加解密技術 [IPAS示範題目](./Crypto.md)
+- 【共通規範】| 身分鑑別與存取控制參考指引v2.0_1111231
+- 存取控制
+- 身分驗證 
+- 密碼學加解密技術 
   - 密碼學的應用 [補充教材下載](./密碼學的應用.pdf) 
     - 密碼學的應用1:數位信封與數位簽章 [教學影片](https://youtu.be/LIG-mXyJTG0)
     - 密碼學的應用2:PKI 公開金鑰基礎建設[教學影片](https://youtu.be/G02vkzLSrE4)
+
 ## 第7單元 網路安全與實體安全
 - 網路安全防禦技術
-  - 防火牆
-  - 入侵偵測與防禦系統
-  - 虛擬私有網路(VPN)
+  - 防火牆 == > 【共通規範】| 防火牆建置資安參考指引(修訂)v3.0_1091015
+  - 入侵偵測與防禦系統 == > 【共通規範】| 入侵偵測與防禦系統建置資安參考指引(修訂)v2.0_1091015 
+  - 虛擬私有網路(VPN) == > 【共通規範】| VPN安全參考指引(修訂)v2.2_1101231
   - 防毒系統
-  - 垃圾郵件過濾系統
-  - 端點偵測及回應系統
-- 網路區域規劃
-- 網路連線安全
-- 雲端運算安全
-- 實體安全
+  - 垃圾郵件過濾系統  == > 【共通規範】| 電子郵件安全參考指引(修訂)v3.1_1101231
+  - 端點偵測及回應系統(EDR)
+  - SOC(本教材沒有) == > 【共通規範】| 領域SOC實務建置指引v1.0_1060301
+- 網路區域規劃 == >  【共通規範】| 網路架構規劃參考指引(修訂)v3.1_1101231
+- 網路連線安全 == > 
+- 雲端運算安全 == > 【共通規範】| 政府機關雲端服務應用資安參考指引v1.3_1131231
+- 實體安全 == > 
+
 ## 第8單元 應用程式安全
 - 不安全的程式
   - 緩衝區溢位(Buffer overflow)
@@ -167,6 +170,8 @@
     - 源碼檢測(Static Code Analysis)：使用自動化的源碼檢測工具找出有問題的程式碼
       - ==> SAST（Static Application Security Testing，靜態應用程式安全測試）對應用程式原始碼執行直接的白盒分析(whitebox)
     - 網頁應用程式防火牆(Web Application Firewall, WAF)：針對應用層攻擊進行防禦
+      - SEE  Gartner《Magic Quadrant for Web Application Firewalls》 [結果](https://www.bing.com/images/search?view=detailV2&ccid=YeX1%2fO0q&id=F2FDD2C854AE30D65E60F8213E310F81D4FC6F72&thid=OIP.YeX1_O0qsIzM2oLgmgUp3wHaHa&mediaurl=https%3a%2f%2fwww.detectx.com.au%2fwp-content%2fuploads%2f2018%2f10%2f340592_0001.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.61e5f5fced2ab08cccda82e09a0529df%3frik%3dcm%252f81IEPMT4h%252bA%26pid%3dImgRaw%26r%3d0&exph=1393&expw=1393&q=Gartner+Magic+Quadrant+for+Web+Application+Firewalls&simid=608041158312734857&FORM=IRPRST&ck=6823EB0D2614C0480AEDB0D391F87354&selectedIndex=0&itb=1)
+    - [Cloud Web Application and API Protection](https://www.gartner.com/reviews/market/cloud-web-application-and-api-protection)
     - 滲透測試(Penetration Test, PT )：模擬攻擊者行為找出網站漏洞 ==> 黑盒分析(blackbox)
     - 網站弱點評估(Web Vulnerability Assessment)：使用掃描工具檢測弱點
       - ==> DAST（dynamic Application Security Testing，動態應用程式安全測試） 
