@@ -9,6 +9,10 @@
 - `6`.Cybersecurity Supply Chain Risk Management (GV.SC):資安供應鏈風險管理
 ### GOVERN 功能| GV.OC類別 的 子類別 (Subcategories)
 - GV.OC-01: The organizational mission is understood and informs cybersecurity risk management組織的使命已被理解，並用於資安風險管理的決策與執行。
+- GV.OC-02: Internal and external stakeholders are understood, and their needs and expectations regarding cybersecurity risk management are understood and considered
+- GV.OC-03: Legal, regulatory, and contractual requirements regarding cybersecurity - including privacy and civil liberties obligations - are understood and managed
+- GV.OC-04: Critical objectives, capabilities, and services that external stakeholders depend on or expect from the organization are understood and communicated
+- GV.OC-05: Outcomes, capabilities, and services that the organization depends on are understood and communicated
 
 #### GV.OC-01: 
 - The organizational mission is understood and informs cybersecurity risk management
