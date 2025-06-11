@@ -5,16 +5,21 @@
 - NIST CSF 1.1版
   - 2018年4月，CSF 1.1版發布，這次改版最大意義在於擴展運用範圍，不僅涵蓋先前注重的關鍵基礎設施，同時，也要讓所有的企業環境都能適用
   - 易於實施的5大核心功能，並具有靈活應用的彈性，幫助各組織可以更好地理解、減少與溝通網路安全風險。 
-- NIST CSF 2.0版 2024年2月CSF 2.0版發布:6個關鍵功能、22 個類別與106個子類別
+- NIST CSF 2.0版
+  - 2024年2月CSF 2.0版發布
+  - 6個關鍵功能、22 個類別與106個子類別
+
 ## NIST
 - 美國國家標準暨技術研究院(National Institute of Standards and Technology,NIST)
 - [NIST Cybersecurity](https://www.nist.gov/cybersecurity)
 - [NIST CSF:The Cybersecurity Framework](https://www.nist.gov/cyberframework)
   - [NIST網路安全框架當紅 2019](https://www.ithome.com.tw/article/133173)
   - [NIST CSF 2](https://today.ithome.com.tw/tags/nist-csf)
-- [NIST PRIVACY FRAMEWORK](https://www.nist.gov/privacy-framework)
+- [NIST PRIVACY FRAMEWORK 隱私權框架](https://www.nist.gov/privacy-framework)
   - NIST Privacy Framework 1.1 
-- [NIST AI Risk Management Framework (AI RMF)](https://www.nist.gov/itl/ai-risk-management-framework)
+- [NIST AI Risk Management Framework (AI RMF)人工智慧風險管理框架](https://www.nist.gov/itl/ai-risk-management-framework)
+  - ISO/IEC 42001:全球第一個專為人工智慧管理而設的國際標準
+    - ISO/IEC 42001:2023 Information technology — Artificial intelligence — Management system 
 - National Vulnerability Database(NVD)
 
 ### NIST CSF 1.1版
