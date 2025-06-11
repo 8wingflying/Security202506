@@ -124,6 +124,7 @@
 
 - CISSP| Domain 7. Security Operations
 ## 第5單元 資訊委外安全
+- 
 - 計畫階段
 - 招標階段
 - 決標階段
