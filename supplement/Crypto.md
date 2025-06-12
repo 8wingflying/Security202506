@@ -1,12 +1,16 @@
 # Crypto
 # 密碼學
 - 古典密碼 ==> [凱薩密碼](https://en.wikipedia.org/wiki/Caesar_cipher)  | [密碼棒Scytale](https://en.wikipedia.org/wiki/Scytale)
-- 現代密碼 ==> 安全性來自 ==>數學難解
+- 現代密碼 ==> 安全性來自:數學難解 ==> 但可輕鬆被量子電腦秒殺
   - 對稱式 ==> DES | 3DES | AES
-  - 非對稱式 ==>
-  - Hash
-    - MD5 SHA1 
-
+  - 非對稱式 ==>　RSA | Elgama
+  - Hash(雜湊)
+    - MD5
+    - SHA1 
+- 量子密碼 ==> 安全性來自量子力學的根本原理
+- 後量子密碼 ==> 設計不會被量子電腦
+  - 後量子密碼學| Post-quantum cryptography(PQC)，又稱為防量子、量子安全、抗量子計算，是密碼學的一個研究領域
+  - 專門研究能夠抵抗`量子電腦`進行密碼分析攻擊的加密演算法（特別是公鑰加密演算法）
 ### RSA 非對稱式
 ##### 質因數因式分解
 - 質因數因式分解有多難? 15 == 5*3 ??
@@ -81,7 +85,6 @@
 ```
 ## 複選題_範例試題1
 ```
-複選題
 關於對稱式加密（Symmetric Encryption），下列敘述何者「不」正 確？
 (A) 對稱式加密特色為加解密速度快，若使用長金鑰具備相對較高之 安全性
 (B) 對稱式加密金鑰管理是重要的課題，若有 N 位使用者，則需 N×(N-1)金鑰數目
@@ -91,15 +94,16 @@
 
 
 
-### 應用
+# 應用 數位簽章（Digital Signature）及數位信封（Digital Envelop）
+## 範例10
 ```
-關於數位簽章（Digital Signature）及數位信封（Digital Envelop），下 列敘述何者正確？
+關於數位簽章（Digital Signature）及數位信封（Digital Envelop），下列敘述何者正確？
 (A) 數位簽章與數位信箱皆運用雜湊函式（Hash Function）達成效果
 (B) 數位簽章主要是將訊息摘要加密後運用對稱金鑰加密
 (C) 數位信封將資料以對稱金鑰加密，再將金鑰透過公開金鑰加密技 術傳輸供收訊方解密
 (D) 數位簽章及數位信封技術在訊息傳遞時皆已加密訊息
 ```
-
+## 範例11
 ```
 關於數位簽章（Digital Signature），下列敘述何者「不」正確？
 (A) 使用了公開金鑰基礎建設（Public Key Infrastructure, PKI）
