@@ -4,6 +4,12 @@
 
 ## Security Controls ==> ISO 27001/27002
 - 資料來源: https://www.slideshare.net/AndreyProzorov/iso-270012022-introduction
+- ISO/IEC 27001:2013  14個關鍵領域(114 controls)
+- ISO/IEC 27001:2022  4 大關鍵領域 (93 controls)
+  - 組織  5 Organizational controls(5.1-5.37)
+  - 人員  6 People controls  (6.1-6.8)
+  - 實體  7 Physical controls (7.1-7.14)
+  - 技術  8 Technological controls (8.1-8.34)
 
 ## NIST SP 800-53
 - NIST SP 800-53, Revision 5
