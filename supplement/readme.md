@@ -99,7 +99,7 @@
    - [NIST SP 800-92 Guide to Computer Security Log Management](https://csrc.nist.gov/publications/detail/sp/800-92/final)
  - 社交工程演練 ==> 防範社交工程攻擊
 - CISSP| Domain 7. Security Operations
-## 第5單元 資訊委外安全
+## [第5單元 資訊委外安全](第5單元資訊委外安全.md)
 - 【共通規範】| 政府資訊作業委外資安參考指引v6.5_1131231
 - 計畫階段
 - 招標階段
