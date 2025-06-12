@@ -44,10 +44,11 @@
 ## 第4單元 作業安全 | 營運安全 security operation
 - 軟硬體維護
 - 組態管理(Configuration Management)
-  - 組態管理Configuration Management)
+  - 組態管理(Configuration Management)
   - 組態`變更`管理(Configuration Change Management)
   - 政府組態基準導入  ==> [政府組態基準(Government Configuration Baseline|GCB)](https://www.nics.nat.gov.tw/GCB.htm?lang=zh)
   - 政府機關弱點通報機制 ==> [ 資通安全弱點通報系統(Vulnerability Analysis and Notice System| VANS)](https://www.nics.nat.gov.tw/Vans.htm?lang=zh)
+  - [組態管理_NIST規範](CM_NIST_SP_800_53.md)
 - 監控與問題管理
   - 異常的監控
     - 1.可用性監控
