@@ -10,7 +10,10 @@
 - `4`.後量子密碼 ==> 設計不會被量子電腦
   - 後量子密碼學| Post-quantum cryptography(PQC)，又稱為防量子、量子安全、抗量子計算，是密碼學的一個研究領域
   - 專門研究能夠抵抗`量子電腦`進行密碼分析攻擊的加密演算法（特別是公鑰加密演算法）
-### RSA 非對稱式
+
+### RSA 非對稱式(公開金鑰)
+- https://en.wikipedia.org/wiki/RSA_cryptosystem
+
 ##### 質因數因式分解
 - 質因數因式分解有多難? 15 == 5*3 ??
   - https://zh.wikipedia.org/zh-tw/RSA%E5%8A%A0%E5%AF%86%E6%BC%94%E7%AE%97%E6%B3%95
