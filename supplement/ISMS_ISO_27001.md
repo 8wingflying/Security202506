@@ -4,17 +4,16 @@
     - ISO/IEC 27001:2013 Information technology — Security techniques — Information security management systems — Requirements 
   - ISO/IEC 27001:2022 Information security, cybersecurity and privacy protection — Information security management systems — Requirements(要求) | Edition : 3 | Number of pages : 19
   - ISO/IEC 27002:2022 Information security, cybersecurity and privacy protection — Information security controls | Edition : 3 | Number of pages : 152
-  - 資訊安全管理系統(ISMS)-內容架構
+### 資訊安全管理系統(ISMS)-內容架構
 
 ![ISO27001_1](ISO27001_1.png)
-  - ISO的`management systems管理系統`: | ISMS | PIMS | BCMS | AIMS |
+  - ISO的`management systems管理系統`: | ISMS | PIMS(個人資訊管理系統) | BCMS | AIMS(人工智慧管理系統) |
     - ISO/IEC 27001:2022 Information security, cybersecurity and privacy protection — Information security management systems — Requirements(要求)
     - PIMS
       - ISO/IEC 27701:2019 Security techniques — Extension to ISO/IEC 27001 and ISO/IEC 27002 for privacy information management — Requirements and guidelines
       - 快要上市 ISO/IEC FDIS 27701 Information security, cybersecurity and privacy protection — Privacy information management systems — Requirements and guidance
     - ISO 22301:2019　Security and resilience — Business continuity management systems — Requirements
-  - security controls
-  - ISO/IEC 42001:2023 Information technology — Artificial intelligence — Management system
+    - ISO/IEC 42001:2023 Information technology — Artificial intelligence — Management system
   - ISO/IEC 27001：2022版本 
     - 4 大關鍵領域(2013版本:14 個)  參考Annex A(normative) Information security controls reference
       - 1.組織控制措施Organizational controls(5.1-5.37)
