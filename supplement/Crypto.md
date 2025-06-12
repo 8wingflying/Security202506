@@ -13,6 +13,11 @@
 
 ### RSA 非對稱式(公開金鑰)
 - https://en.wikipedia.org/wiki/RSA_cryptosystem
+- 線上工具
+  - https://www.toolhelper.cn/AsymmetricEncryption/RSA
+  - 步驟1:產生key pair
+  - 步驟2:使用密鑰加密 ==> This is Dragon Da Da speaking
+  - 步驟3:使用公開金鑰解密
 
 ##### 質因數因式分解
 - 質因數因式分解有多難? 15 == 5*3 ??
