@@ -1,5 +1,4 @@
-# Crypto
-# 密碼學
+# Cryptography 密碼學
 - 古典密碼 ==> [凱薩密碼](https://en.wikipedia.org/wiki/Caesar_cipher)  | [密碼棒Scytale](https://en.wikipedia.org/wiki/Scytale)
 - 現代密碼 ==> 安全性來自:數學難解 ==> 但可輕鬆被量子電腦秒殺
   - 對稱式 ==> DES | 3DES | AES
