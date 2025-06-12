@@ -1,13 +1,13 @@
 # Cryptography 密碼學
-- 古典密碼 ==> [凱薩密碼](https://en.wikipedia.org/wiki/Caesar_cipher)  | [密碼棒Scytale](https://en.wikipedia.org/wiki/Scytale)
-- 現代密碼 ==> 安全性來自:數學難解 ==> 但可輕鬆被量子電腦秒殺
+- `1`.古典密碼 ==> [凱薩密碼](https://en.wikipedia.org/wiki/Caesar_cipher)  | [密碼棒Scytale](https://en.wikipedia.org/wiki/Scytale)
+- `2`.現代密碼 ==> 安全性來自:數學難解 ==> 但可輕鬆被量子電腦秒殺
   - 對稱式 ==> DES | 3DES | AES
   - 非對稱式 ==>　RSA | Elgama
   - Hash(雜湊)
     - MD5
     - SHA1 
-- 量子密碼 ==> 安全性來自量子力學的根本原理
-- 後量子密碼 ==> 設計不會被量子電腦
+- `3`.量子密碼 ==> 安全性來自量子力學的根本原理
+- `4`.後量子密碼 ==> 設計不會被量子電腦
   - 後量子密碼學| Post-quantum cryptography(PQC)，又稱為防量子、量子安全、抗量子計算，是密碼學的一個研究領域
   - 專門研究能夠抵抗`量子電腦`進行密碼分析攻擊的加密演算法（特別是公鑰加密演算法）
 ### RSA 非對稱式
