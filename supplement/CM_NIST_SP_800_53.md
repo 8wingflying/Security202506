@@ -4,18 +4,18 @@
 - 美國國家安全局 （NSA） 和網路安全與基礎設施安全域 （CISA） 發佈了一份聯合網路安全諮詢 （CSA）
 - NSA 和 CISA 紅藍團隊分享了十大網路安全錯誤配置，它提供了大型組織中最常見的網路安全錯誤配置，並詳細介紹了行為者用來利用這些錯誤配置的策略、技術和程式 （TTP）。
 - CSA 中的錯誤配置說明了許多大型組織（包括那些具有成熟網路態勢的組織）中存在系統性弱點的趨勢，並凸顯了軟體製造商採用安全設計原則以減輕網路防禦者負擔的重要性。
-  - 1️⃣ 軟體和應用程式的預設配置
-  - 2️⃣ 使用者/管理員許可權分離不當
-  - 3️⃣ 內部網路監控不足
-  - 4️⃣ 缺乏網路分段
-  - 5️⃣ 補丁管理不佳
-  - 6️⃣ 繞過系統訪問控制
-  - 7️⃣ 多重身份驗證 （MFA） 方法較弱或配置錯誤
-  - 8️⃣ 網路共享和服務上的訪問控制清單 （ACL） 不足
-  - 9️⃣ 憑據衛生不良
-  - 1️⃣0️⃣ 不受限制的代碼執行
+  - 1️⃣ 軟體和應用程式的預設配置  | Default configurations of software and applications
+  - 2️⃣ 使用者/管理員權限分離不當 | Improper separation of user/administrator privilege
+  - 3️⃣ 內部網路監控不足 | Insufficient internal network monitoring
+  - 4️⃣ 缺乏網路分段 | Lack of network segmentation
+  - 5️⃣ `補丁`管理不佳  | Poor `patch` management
+  - 6️⃣ 繞過系統訪問控制 | Bypass of system access controls
+  - 7️⃣ 多重身份驗證(MFA)方法較弱或配置錯誤 | Weak or misconfigured multifactor authentication (MFA) methods
+  - 8️⃣ 網路共享和服務上的訪問控制清單(ACL)不足 | Insufficient access control lists (ACLs) on network shares and services
+  - 9️⃣ 憑據`衛生`不良 | Poor credential `hygiene`
+  - 1️⃣0️⃣ 不受限制的代碼執行 | Unrestricted code execution
 
-## CM: Configuration Management@NIST SP 800-53
+## 配置管理 | 設定管理 | NIST way [CM: Configuration Management@NIST SP 800-53](https://csf.tools/reference/nist-sp-800-53/r5/cm/)
 - CM-1: Policy and Procedures
 - CM-2: Baseline Configuration
 - CM-3: Configuration Change Control
