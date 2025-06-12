@@ -7,7 +7,7 @@
   - 資訊安全管理系統(ISMS)-內容架構
 
 ![ISO27001_1](ISO27001_1.png)
-  - ISO的`management systems管理系統: | ISMS | PIMS | BCMS | AIMS |
+  - ISO的`management systems管理系統`: | ISMS | PIMS | BCMS | AIMS |
     - ISO/IEC 27001:2022 Information security, cybersecurity and privacy protection — Information security management systems — Requirements(要求)
     - PIMS
       - ISO/IEC 27701:2019 Security techniques — Extension to ISO/IEC 27001 and ISO/IEC 27002 for privacy information management — Requirements and guidelines
