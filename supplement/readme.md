@@ -54,17 +54,7 @@
     - 2.完整性監控
     - 3.入侵偵測監控
     - 4.異常管理流程(incident handling)
-    - 5.問題管理流程(problem handling)
-  - 問題管理(Problem management)
-    - 問題管理 WHAT
-      - Problem management is the process of identifying and managing the causes of incidents on an IT service.
-      - It is a core component of `ITSM(資訊科技服務管理|IT Service Management|ITSM|IT服務管理)`frameworks.
-      - ITSM模組
-        - 事故管理（Incident Management，ITIM）
-        - 問題管理（Problem Management，ITPM）
-        - 組態管理（Configuration Management）
-        - 變更管理（Change Management，ITCM）
-        - 財務管理（Financial Management for IT Services，ITFM）
+    - 5.問題管理流程(problem handling) ==> [問題管理(Problem management)](問題管理.md)
     - 與作業安全的關聯 ==> 三大目標
       - 1.降低問題在服務上的衝擊
       - 2.降低錯誤與失敗狀況至可接受的基準
@@ -107,14 +97,20 @@
 - 履約管理階段
 - 驗收階段
 - 保固階段
+
 ## 第6單元 存取控制與加解密技術
 - 【共通規範】| 身分鑑別與存取控制參考指引v2.0_1111231
 - 存取控制
-- 身分驗證 
+  - 定義
+  - 三大類型
+  - 存取控制的管理 ==> ID + AAA 
+- 身分驗證
+  - Factor(驗證因子) ==>多因子驗證(MFA|Multi-factor authentication)
+  -  
 - [密碼學加解密技術](Crypto.md) 
   - 密碼學的應用 
     - 密碼學的應用1:數位信封與數位簽章 [教學影片](https://youtu.be/LIG-mXyJTG0)
-    - 密碼學的應用2:PKI 公開金鑰基礎建設[教學影片](https://youtu.be/G02vkzLSrE4)
+    - (補充教材)密碼學的應用2:PKI 公開金鑰基礎建設[教學影片](https://youtu.be/G02vkzLSrE4)
 
 ## 第7單元 網路安全與實體安全
 - 網路安全防禦技術
@@ -126,8 +122,25 @@
   - 端點偵測及回應系統(EDR)
   - SOC(本教材沒有) == > 【共通規範】| 領域SOC實務建置指引v1.0_1060301
 - 網路區域規劃 == >  【共通規範】| 網路架構規劃參考指引(修訂)v3.1_1101231
-- 網路連線安全 == > 
+- 網路連線安全 == >
+  - 不安全連線 vs 安全連線 
+    - 不安全連線 ==> HTTP、FTP與TELNET ==> 連線採用明文傳輸，通訊內容有可能被監聽
+    - 安全連線   ==> HTTPS、FTPS與SSH ==> 連線有採用加密
+    - https設定 ==> 需要設定僅能支援 TLS 1.2/1.3  ==> 缺失:設定錯誤 支援 SSL1.0/2.0/3.0 及 TLS 1.0/1.1
+    - 檢視你的https網站支援的安全協定
+  - [netstat 指令](netstat.md) 
 - 雲端運算安全 == > 【共通規範】| 政府機關雲端服務應用資安參考指引v1.3_1131231
+  - 雲端運算-定義 ==> 543 [NIST SP 800-145 The NIST Definition of Cloud Computing](https://csrc.nist.gov/pubs/sp/800/145/final)
+    - 五大特色 
+    - 四種部署模型
+    - 三類服務模式 ==> Saas, Paas, Iaas
+      - ==> X-aas (RaaS|Ransomware-as-a-service) (加密貨幣即服務(Crypto-as-a-Service, CaaS) ) 
+  - 雲端運算-資安責任
+  - (略)雲端運算-資安威脅
+  - (略)雲端運算-資安防護 ==> 看看 三大公有雲的資安防護解決方案
+    - Cloud Security Scanner
+    - [保護 PaaS 部署的最佳做法 - Microsoft Azure | Microsoft Learn](https://learn.microsoft.com/zh-tw/azure/security/fundamentals/paas-deployments)
+    - [Azure DDoS 保護和風險降低服務](https://azure.microsoft.com/zh-tw/products/ddos-protection/?msockid=3f95cbd385f5659312fdd8f7848864bc) 
 - 實體安全 == > 
 
 ## 第8單元 應用程式安全
@@ -175,7 +188,6 @@
     - 5.目錄伺服器(Directory Service)設定檢視 ==> Windows Server 2022 AD(active Directory)的安全設定
     - 6.防火牆連線設定檢視 ==>防火牆規則檢視
 - 資通安全健診:流程
-- 
 ## 第10單元 資通安全事件通報及應變
 - incident vs event
 - [資通安全事件通報及應變辦法(共21條)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030305)
@@ -205,13 +217,12 @@
   - 資安事件處理計畫
   - 資安事件處理程序|流程
     - 準備：資安事件處理時所需之專業人員、組織分工、處理與鑑識的訓練、計畫與程序的編撰及模擬演練
-識別：當資安事件發生時，第一步驟是識別資安事件的嚴重性與影響範圍
-封鎖：封鎖入侵來源，以避免災害擴大
-根除：徹底清除被植入的惡意程式並修補被入侵的管道。
-回復：被入侵的系統回復至正常運作的狀況
-經驗學習：在事件中學習到相關的經驗，並反應在資安政策與防護措施上，以避免相同問題再度發生
+    - 識別：當資安事件發生時，第一步驟是識別資安事件的嚴重性與影響範圍
+    - 封鎖：封鎖入侵來源，以避免災害擴大
+    - 根除：徹底清除被植入的惡意程式並修補被入侵的管道。
+    - 回復：被入侵的系統回復至正常運作的狀況
+    - 經驗學習：在事件中學習到相關的經驗，並反應在資安政策與防護措施上，以避免相同問題再度發生
 
- 
   - NIST SP 800-53, Revision 5| IR: Incident Response   Controls [參考資料](https://csf.tools/reference/nist-sp-800-53/r5/ir/)
     - IR-1: Policy and Procedures
     - IR-2: Incident Response Training
