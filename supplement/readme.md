@@ -131,13 +131,17 @@
 - 實體安全 == > 
 
 ## 第8單元 應用程式安全
-- 不安全的程式
+- 各種應用程式 [參考資料](Application_security.md)
+  - c/c++
+  - 手機應用程式(Mobile Applications)
+  - 雲端原生應用程式(Cloud-Native Applications)
+- 不安全的程式 ==> 應用程式安全威脅
   - 緩衝區溢位(Buffer overflow)
   - 惡意程式(Malware)
   - 邏輯炸彈(logical bomb)
   - 隱藏通道(Covert Channel)
   - 輸入攻擊
-- 軟體開發生命週期安全(Secure Software Development Life Cycle, SSDLC)
+- 軟體開發生命週期安全(`Secure` Software Development Life Cycle, SSDLC)
 - 應用程式安全控制==> 強化程式安全的各種做法
   - 變更控制(Change Controls)
   - 職責區隔(SOD|Segregation Of Duties)
@@ -152,42 +156,12 @@
     - 滲透測試(Penetration Test, PT )：模擬攻擊者行為找出網站漏洞 ==> 黑盒分析(blackbox)
     - 網站弱點評估(Web Vulnerability Assessment)：使用掃描工具檢測弱點
       - ==> DAST（dynamic Application Security Testing，動態應用程式安全測試） 
-- 行動應用程式安全(Mobile app Security)
-  - 政府行動化安全防護規劃報告V1.0」第61~62頁
-  - 行動應用程式的開發過程，會衍生二大安全議題:
-    - 1.行動應用程式碼的安全性議題 :
-      - 因撰寫方式的錯誤，使用Apps存有安全弱點，導致系統遭入侵
-      - 參考OWASP Mobile TOP 10
-        - Top 10 Mobile Risks Beta 2 Draft 2023
-      - 行動裝置資安防護參考指引
-      - 解決方法建議遵守安全系統發展生命週期進行開發，藉助第三方或是自動化檢測進行白箱、黑箱靜態與動態之檢測。
-        - [OWASP Mobile Application Security](https://owasp.org/www-project-mobile-app-security/)
-        - [OWASP Mobile Application Security Verification Standard (MASVS)](https://owasp.org/www-project-mobile-app-security/)
-        - [Mobile Application Security Checklist](https://owasp.org/www-project-mobile-app-security/)
-    - 2.隱私侵犯的議題
-      - 因程式開發時，索取過多行動裝置上的敏感資訊，例如：通訊錄、行事曆、座標位置、郵件、簡訊內容等
-      - 建議遵守Privacy by Design之原則，將隱私保護之概念，融入於應用程式的設計 
+- [行動應用程式安全(Mobile app Security)](Mobile_app_Security.md)
 - Web應用程式安全(Web app Security)
-  - [OWASP Top 10 2021](https://owasp.org/Top10/zh_TW/)
-  - A1	權限控制失效(Broken Access Control)
-  - A2	加密機制失效(Cryptographic Failures)
-  - A3	注入式攻擊(Injection)
-    - SQL Injection
-    - XSS (JAVAscript Injection)
-    - Command Injection
-    - LDAP Injection
-    - .....
-  - A4	不安全設計(Insecure Design)
-  - A5	安全設定缺陷(Security Misconfiguration)
-  - A6	危險或過舊的元件(Vulnerable and Outdated Components)
-  - A7	認證及驗證機制失效(Identification and Authentication Failures)
-  - A8	軟體及資料完整性失效(Software and Data Integrity Failures)
-  - A9	資安記錄及監控失效(Security Logging and Monitoring Failures)
-  - A10	伺服端請求偽造(Server-Side Request Forgery)
-- Cloud NAtive-APP雲端原生應用程式
-  - Cloud-native applications雲端原生應用程式
-  - OWASP Cloud-Native Application Security Top 10(尚未定稿| 缺人)
-- [Internet of Things (IoT) Top 10 2018](https://wiki.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=IoT_Top_10)
+  - WEB應用程式-前10大風險 see [OWASP Top 10 2021](OWASP_WEB_TOP_10.md)
+  - Web應用程式安全-資安案例
+  - Web應用程式安全-檢測
+  
 ## 第9單元 資通安全健診
 - 資通安全健診:目的
 - 資通安全健診:項目
