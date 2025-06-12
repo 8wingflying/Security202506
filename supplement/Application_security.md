@@ -1,0 +1,19 @@
+
+- Cloud NAtive-APP雲端原生應用程式
+  - Cloud-native applications雲端原生應用程式
+  - OWASP Cloud-Native Application Security Top 10(尚未定稿| 缺人)
+- [Internet of Things (IoT) Top 10 2018](https://wiki.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=IoT_Top_10)
+- 政府行動化安全防護規劃報告V1.0」第61~62頁
+- 行動應用程式的開發過程，會衍生二大安全議題:
+    - 1.行動應用程式碼的安全性議題 :
+      - 因撰寫方式的錯誤，使用Apps存有安全弱點，導致系統遭入侵
+      - 參考OWASP Mobile TOP 10
+        - Top 10 Mobile Risks Beta 2 Draft 2023
+      - 行動裝置資安防護參考指引
+      - 解決方法建議遵守安全系統發展生命週期進行開發，藉助第三方或是自動化檢測進行白箱、黑箱靜態與動態之檢測。
+        - [OWASP Mobile Application Security](https://owasp.org/www-project-mobile-app-security/)
+        - [OWASP Mobile Application Security Verification Standard (MASVS)](https://owasp.org/www-project-mobile-app-security/)
+        - [Mobile Application Security Checklist](https://owasp.org/www-project-mobile-app-security/)
+    - 2.隱私侵犯的議題
+      - 因程式開發時，索取過多行動裝置上的敏感資訊，例如：通訊錄、行事曆、座標位置、郵件、簡訊內容等
+      - 建議遵守Privacy by Design之原則，將隱私保護之概念，融入於應用程式的設計 
