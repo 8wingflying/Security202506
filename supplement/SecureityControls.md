@@ -33,3 +33,42 @@
   - SC: System and Communications Protection
   - SI: System and Information Integrity
   - SR: Supply Chain Risk Management
+### [Critical Security Controls v8.1]() 
+- 1: Inventory and Control of Enterprise Assets
+- 2: Inventory and Control of Software Assets
+- 3: Data Protection
+- 4: Secure Configuration of Enterprise Assets and Software
+- 5: Account Management
+- 6: Access Control Management
+- 7: Continuous Vulnerability Management
+- 8: Audit Log Management
+- 9: Email and Web Browser Protections
+- 10: Malware Defenses
+- 11: Data Recovery
+- 12: Network Infrastructure Management
+- 13: Network Monitoring and Defense
+- 14: Security Awareness and Skills Training
+- 15: Service Provider Management
+- 16: Application Software Security
+- 17: Incident Response Management
+- 18: Penetration Testing
+
+### [CSA Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/research/cloud-controls-matrix) 
+- [Cloud Controls Matrix Version 4.0](https://csf.tools/reference/cloud-controls-matrix/v4-0/)
+- A&A: Audit & Assurance
+- AIS: Application & Interface Security
+- BCR: Business Continuity Management and Operational Resilience
+- CCC: Change Control and Configuration Management
+- CEK: Cryptography, Encryption & Key Management
+- DCS: Datacenter Security
+- DSP: Data Security and Privacy Lifecycle Management
+- GRC: Governance, Risk and Compliance
+- HRS: Human Resources
+- IAM: Identity & Access Management
+- IPY: Interoperability & Portability
+- IVS: Infrastructure & Virtualization Security
+- LOG: Logging and Monitoring
+- SEF: Security Incident Management, E-Discovery, & Cloud Forensics
+- STA: Supply Chain Management, Transparency, and Accountability
+- TVM: Threat & Vulnerability Management
+- UEM: Universal Endpoint Management
