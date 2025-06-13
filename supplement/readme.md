@@ -114,7 +114,7 @@
     - (補充教材)密碼學的應用2:PKI 公開金鑰基礎建設[教學影片](https://youtu.be/G02vkzLSrE4)
 
 ## 第7單元 網路安全與實體安全
-- 網路安全防禦技術
+- [網路安全防禦技術](網路安全防禦技術.md)
   - 防火牆 == > 【共通規範】| 防火牆建置資安參考指引(修訂)v3.0_1091015
   - 入侵偵測與防禦系統 == > 【共通規範】| 入侵偵測與防禦系統建置資安參考指引(修訂)v2.0_1091015 
   - 虛擬私有網路(VPN) == > 【共通規範】| VPN安全參考指引(修訂)v2.2_1101231
@@ -142,7 +142,22 @@
     - Cloud Security Scanner
     - [保護 PaaS 部署的最佳做法 - Microsoft Azure | Microsoft Learn](https://learn.microsoft.com/zh-tw/azure/security/fundamentals/paas-deployments)
     - [Azure DDoS 保護和風險降低服務](https://azure.microsoft.com/zh-tw/products/ddos-protection/?msockid=3f95cbd385f5659312fdd8f7848864bc) 
-- 實體安全 == > 
+- 實體安全
+  - 威脅類型
+  - 實體安全-防護措施規劃 ==> 縱身防護
+  - 實體安全-量化指標
+  - 實體安全-空間規劃
+  - 實體安全-進出控管
+  - 實體安全-安全區域規劃
+  - 實體安全-監視錄影
+  - 實體安全-空調規劃
+  - 實體安全-電力
+    - 實體安全-電力來源
+    - 實體安全-電力干擾
+  - 實體安全-靜電防範
+  - 實體安全-滅火方式
+  - 實體安全-漏水偵測
+  - 實體安全-緊急應變程序
 
 ## 第8單元 應用程式安全
 - 各種應用程式 [參考資料](Application_security.md)
