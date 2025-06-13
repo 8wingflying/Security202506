@@ -15,7 +15,8 @@
   - 9️⃣ 憑據`衛生`不良 | Poor credential `hygiene`
   - 1️⃣0️⃣ 不受限制的代碼執行 | Unrestricted code execution
 
-## 配置管理 | 設定管理 | NIST way [CM: Configuration Management@NIST SP 800-53](https://csf.tools/reference/nist-sp-800-53/r5/cm/)
+## 配置管理 | 設定管理 | NIST規範
+- [CM: Configuration Management@NIST SP 800-53](https://csf.tools/reference/nist-sp-800-53/r5/cm/)
 - CM-1: Policy and Procedures
 - CM-2: Baseline Configuration
 - CM-3: Configuration Change Control
